@@ -76,17 +76,6 @@ Final year BS Computer Science student at the University of Central Punjab, Laho
 - **Laravel ERP System** — Laravel, PHP, MySQL. Inventory, sales, invoices, and admin dashboards.
 - **AI Resume and Portfolio Generator** — React, Node, OpenAI, MongoDB. Builds resumes and portfolio sites from smart templates.
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhani-ui&show_icons=true&hide_border=true&title_color=C9A15A&icon_color=8AA155&text_color=C9C9B0&bg_color=0A0B06" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhani-ui&layout=compact&hide_border=true&title_color=C9A15A&text_color=C9C9B0&bg_color=0A0B06" height="165" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhani-ui&hide_border=true&background=0A0B06&stroke=556B2F&ring=C9A15A&fire=C9A15A&currStreakLabel=C9A15A&sideLabels=C9C9B0&currStreakNum=EDE8D8&sideNums=EDE8D8&dates=8A9055" alt="streak" />
-</p>
-
 ---
 
 <p align="center"><i>Full stack apps and AI systems that do actual work, then ship.</i></p>
